@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.palete{
+    border: 1px solid black;
+    padding: 0;
+    width: 100px;
+
+}
+
+.Canpole{
+    border: 1px solid black;
+    width: 610px;
+    height: 600px;
+    cursor: default;
+
+}
+
+.container{
+    display: flex;
+    width: 710px;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.clear{
+    border: 2px solid black;
+    text-align: center;
+    width: 100px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.Voco{
+    width: 100px;
+    height: 100%;
+}
